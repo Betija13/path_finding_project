@@ -26,6 +26,8 @@ Or just run the `main.py` file.
 
 `end_floor` - same as start_floor
 
+`use_elevator` - If True, use elevator to get between different floors. By default, False aka uses stairs to get from one floor to another.
+
 `language` - By default, 'LV'. Should pass as an argument, if language is 'EN'.
 
 `destination_file_1` - Path to saved image of 1st map. Can be not defined as it will automatically be './path_pics/output.png' or './path_pics/output_1.png'
