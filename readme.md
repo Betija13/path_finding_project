@@ -1,4 +1,4 @@
-To get instructions and pictures of path from start to end destionation, all you need to do is 
+To get instructions and pictures of path from start to end destination, all you need to do is 
 add `from cela_algoritms_karte import get_path_map` to your code and then call function `get_path_map()`
 
 Or just run the `main.py` file.
